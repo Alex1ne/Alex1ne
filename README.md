@@ -1,4 +1,4 @@
-- Hello and welcome to my profile! Here I upload examples of functions of the programming lenguage C.
+- Hello and welcome to my profile! Here I upload examples of programs written in C
 - You are welcome to use them, and if you have some advice, I'd be happy to hear it.
 - I try to upload often to my repository, since I'm studing Computer Engineering right now.
 - I hope to become better at programming! Thanks for reading 👁️😉
