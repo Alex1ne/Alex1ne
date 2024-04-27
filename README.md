@@ -1,7 +1,3 @@
-# About:
-Hello and welcome to my profile! Here I upload examples of programs written in <br>multiple programming lenguages, as well as some explanations.<br>You are welcome to use them, and if you have some advice, I'd be happy to hear it.<br>I try to upload often to my repository, since I'm studing Computer Engineering right now.<br>I hope to become better at programming! Thanks for reading 👁️😉
-
-
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/javild_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bendonaranjas0) 
 
